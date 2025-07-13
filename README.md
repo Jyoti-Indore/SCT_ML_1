@@ -48,12 +48,17 @@ The model is deployed using `Streamlit` for real-time predictions through a web-
 
 ### 1. Clone the Repository
 
-bash
+
 git clone https://github.com/your-username/SCT_ML_1.git
+
 cd SCT_ML_1
+
 python -m venv venv
+
 venv\Scripts\activate  # On Windows
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 PROJECT STRUCURE
