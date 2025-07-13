@@ -62,10 +62,15 @@ pip install -r requirements.txt
 streamlit run app.py
 
 PROJECT STRUCURE
+
 SCT_ML_1/
+
 ├── app.py               # Streamlit app
+
 ├── model.pkl            # Trained regression model
+
 ├── requirements.txt     # Python dependencies
+
 └── README.md            # Project documentation
 
 #MachineLearning #Python #Streamlit #Regression #InternshipProject #SkillcraftTechnology #HousePricePrediction
