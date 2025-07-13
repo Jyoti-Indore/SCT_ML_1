@@ -38,9 +38,7 @@ The model is deployed using `Streamlit` for real-time predictions through a web-
 
 ---
 
-## 📸 Demo Screenshot
 
-*(You can insert a screenshot here if you'd like)*
 
 ---
 
