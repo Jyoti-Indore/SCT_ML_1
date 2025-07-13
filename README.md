@@ -28,6 +28,12 @@ The model is deployed using `Streamlit` for real-time predictions through a web-
 
 ---
 
+## Dataset Used
+
+-https://www.kaggle.com/datasets/sukhmandeepsinghbrar/house-prices-india
+
+---
+
 ## 🧠 Skills Gained
 
 - ML model development using regression
