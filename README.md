@@ -53,11 +53,23 @@ git clone https://github.com/your-username/SCT_ML_1.git
 
 cd SCT_ML_1
 
+Step 1: Create a Virtual Environment
+
 python -m venv venv
 
-venv\Scripts\activate  # On Windows
+Step 2: Activate the Virtual Environment
 
-pip install -r requirements.txt
+On Windows (Command Prompt):
+
+venv\Scripts\activate  
+
+Step 3: Install Streamlit in the Virtual Environment
+
+Once the venv is activated:
+
+pip install  streamlit
+
+Step 4: Run Streamlit
 
 streamlit run app.py
 
