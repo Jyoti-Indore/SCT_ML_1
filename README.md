@@ -38,10 +38,6 @@ The model is deployed using `Streamlit` for real-time predictions through a web-
 
 ---
 
-
-
----
-
 ## ▶️ How to Run This Project
 
 ### 1. Clone the Repository
